@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ferce19
 - 👀 I’m interested in stattistics and sports
 - 🌱 I’m currently learning dashboards and some special R packages
-- Boca juniors ´s fun 
+- Boca juniors ´s fan 
 
 
 <!---
